@@ -1,0 +1,40 @@
+_repo: Thoughts-of-Marcus-Aurelius-Antoninus_15877
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Long, George
+    birthdate: 1800
+    deathdate: 1879
+    gutenberg_agent_id: '2256'
+    url: http://www.gutenberg.org/2009/agents/2256
+    wikipedia: http://en.wikipedia.org/wiki/George_Long
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marcus Aurelius, Emperor of Rome
+    aliases:
+    - Aurel, Marc
+    - Antoninus, Marcus Aurelius
+    birthdate: 121
+    deathdate: 180
+    gutenberg_agent_id: '998'
+    url: http://www.gutenberg.org/2009/agents/998
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Aurelius
+description: ''
+gutenberg_issued: '2005-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life'
+- !lcsh 'Ethics'
+- !lcsh 'Stoics'
+- !lcc 'B'
+title: Thoughts of Marcus Aurelius Antoninus
+url: http://www.gutenberg.org/ebooks/15877
