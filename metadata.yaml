@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/998
     wikipedia: http://en.wikipedia.org/wiki/Marcus_Aurelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15877#Thoughts-of-Marcus-Aurelius-Antoninus
 gutenberg_issued: '2005-05-22'
 gutenberg_type: Text
 identifiers:
